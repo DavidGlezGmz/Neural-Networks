@@ -11,3 +11,8 @@ Neural networks can adapt to changing input; so the network generates the best p
 This is an algorithm for supervised learning of binary classifiers. A binary classifier is a function which can decide whether or not an input, represented by a vector of numbers, belongs to some specific class. It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector.
 
 (From Wikipedia, the free encyclopedia: https://en.wikipedia.org/wiki/Perceptron.)
+
+### Process
+Generatation of 8 random inputs, with 2 pre-assigned classes (0-1). The TLU is plotted:
+
+![image](https://user-images.githubusercontent.com/86708470/167499197-d68ce99c-1649-4ff0-b7b2-91dd661a7f70.png)
