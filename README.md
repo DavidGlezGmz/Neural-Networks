@@ -16,3 +16,23 @@ This is an algorithm for supervised learning of binary classifiers. A binary cla
 Generatation of 8 random inputs, with 2 pre-assigned classes (0-1). The TLU is plotted:
 
 ![image](https://user-images.githubusercontent.com/86708470/167499197-d68ce99c-1649-4ff0-b7b2-91dd661a7f70.png)
+
+
+## Multilayer Perceptron (MLP)
+A multilayer perceptron (MLP) is a fully connected class of feedforward artificial neural network (ANN). 
+Consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training. Its multiple layers and non-linear activation distinguish MLP from a linear perceptron. It can distinguish data that is not linearly separable.
+
+(From Wikipedia, the free encyclopedia: https://en.wikipedia.org/wiki/Multilayer_perceptron)
+
+The data set is called "TripGaussKNN.csv".
+
+### Data Generation.
+Distance computation in k-Means weighs each dimension equally and hence care must be taken to ensure that unit of dimension shouldn’t distort relative near-ness of observations. Common method is to unit-standardize each dimension individually.
+
+![image](https://user-images.githubusercontent.com/86708470/167463458-20f8c7ad-f307-49ff-8c7f-8e1476f53fec.png)
+
+### Results
+
+Final k-means clustering pipeline was able to cluster tweets with different classes.
+
+![image](https://user-images.githubusercontent.com/86708470/167464243-34d11c96-c41e-44cf-b29d-8948a75da0c6.png)
