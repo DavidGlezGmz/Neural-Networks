@@ -27,12 +27,12 @@ Consists of at least three layers of nodes: an input layer, a hidden layer and a
 The data set is called "TripGaussKNN.csv".
 
 ### Data Generation.
-Distance computation in k-Means weighs each dimension equally and hence care must be taken to ensure that unit of dimension shouldn’t distort relative near-ness of observations. Common method is to unit-standardize each dimension individually.
+Generatation of 3,000 random values, 3 clases (0,1,2).
 
-![image](https://user-images.githubusercontent.com/86708470/167463458-20f8c7ad-f307-49ff-8c7f-8e1476f53fec.png)
+![image](https://user-images.githubusercontent.com/86708470/167902422-42453999-7b54-4526-bcee-6c8f9b1954d9.png)
 
 ### Results
 
-Final k-means clustering pipeline was able to cluster tweets with different classes.
+Accuracy of: 0.96466%
 
-![image](https://user-images.githubusercontent.com/86708470/167464243-34d11c96-c41e-44cf-b29d-8948a75da0c6.png)
+![image](https://user-images.githubusercontent.com/86708470/167902561-e9713f17-fa5a-4eb8-b59a-e84e3c0a262e.png)
