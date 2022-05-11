@@ -36,3 +36,22 @@ Generatation of 3,000 random values, 3 clases (0,1,2).
 Accuracy of: 0.96466%
 
 ![image](https://user-images.githubusercontent.com/86708470/167902561-e9713f17-fa5a-4eb8-b59a-e84e3c0a262e.png)
+
+
+## N-Layer Perceptron
+An implementation of the program "Multilayer Perceptron (MLP)", Backpropagation, short for "backward propagation of errors," is an algorithm for supervised learning of artificial neural networks using gradient descent. Given an artificial neural network and an error function, the method calculates the gradient of the error function with respect to the neural network's weights.
+
+(From Brilliant, John McGonagle, George Shaikouski, Christopher Williams, and 3 others contributed: https://brilliant.org/wiki/backpropagation/#:~:text=Backpropagation%2C%20short%20for%20%22backward%20propagation,to%20the%20neural%20network's%20weights.)
+
+The data set is called "TripGaussKNN.csv".
+
+### Results
+
+Accuracy of: 0.9707%
+
+![image](https://user-images.githubusercontent.com/86708470/167921235-a13eee52-477b-4fbf-b05e-817f5aba2a03.png)
+
+### Prediction Technique
+
+Accuracy of: 0.9866%
+![image](https://user-images.githubusercontent.com/86708470/167921378-0fba207a-276b-457e-a748-c3afac949327.png)
