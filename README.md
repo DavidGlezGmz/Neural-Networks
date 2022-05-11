@@ -54,4 +54,5 @@ Accuracy of: 0.9707%
 ### Prediction Technique
 
 Accuracy of: 0.9866%
+
 ![image](https://user-images.githubusercontent.com/86708470/167921378-0fba207a-276b-457e-a748-c3afac949327.png)
